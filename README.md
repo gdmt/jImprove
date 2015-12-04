@@ -19,7 +19,7 @@ Usage:
 Examples:
 =========
 	
-	Exemple 1: 
+	Example 1: 
 		
 		function myfunction(a=1, b=2, c=3){
 			return a + b + c;
@@ -32,7 +32,7 @@ Examples:
 		}
 		
 	
-	Exemple 2: 
+	Example 2: 
 		
 		function myfunction(a=[1,2,3]){
 			//do something
@@ -45,7 +45,7 @@ Examples:
 		}
 	
 	
-	Exemple 3: 
+	Example 3: 
 		
 		function myfunction(a, callback=function(b=1){alert(b);}){
 			return callback(a);
@@ -58,7 +58,7 @@ Examples:
 		}
 	
 	
-	Exemple 4: 
+	Example 4: 
 	
 		if(!isDefined(myvar)){
 			var myvar=false;
